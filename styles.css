@@ -1,0 +1,31 @@
+p {
+  color: red;
+  background-color: #00539f;
+  border: 1px solid black;
+}
+
+.header-example {
+  font-size:10px ;
+  font-family: sans-serif ;
+  color: red;
+}
+
+.list-example {
+color: blue;
+list-style-type: square;
+}
+
+
+.text-example {
+  font-size:14px ;
+  font-family: arial ;
+  text-transform: uppercase;
+  text-decoration: underline;
+ 
+}
+
+.div-example {
+  background-color: magenta;
+  border: 2px solid green;
+}
+
